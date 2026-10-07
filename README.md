@@ -1,0 +1,1 @@
+An Ableton Live AMXD jweb~ Max-API wrapper for Electroplankton. Requires a legally owned Electroplankton (USA).nds ROM image but runs the ROM unmodified and can control aspects of Hanenbow interface via RAM modification during emulation runtime. 
